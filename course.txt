@@ -1,0 +1,5 @@
+網頁視覺化元件資源網址(Google)
+https://developers.google.com/chart/interactive/docs/gallery/gauge
+
+Google Developer (Chart)
+https://developers.google.com/chart/
